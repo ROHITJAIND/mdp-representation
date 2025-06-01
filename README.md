@@ -67,7 +67,8 @@ p = {
 
 ## OUTPUT:
 
-![](op1.png)
+![image](https://github.com/user-attachments/assets/b785ff8b-676e-4673-aa69-2f5a3874d28b)
+
 
 ## RESULT:
 
