@@ -44,7 +44,7 @@ R = {+1 if state = 3}
 
 ### Graphical Representation
 
-![](1.png)
+![image](https://github.com/user-attachments/assets/b785ff8b-676e-4673-aa69-2f5a3874d28b)
 
 ## PYTHON REPRESENTATION:
 
@@ -67,7 +67,9 @@ p = {
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/b785ff8b-676e-4673-aa69-2f5a3874d28b)
+
+
+![image](https://github.com/user-attachments/assets/a72dcec8-3512-473d-a1cf-270605064f49)
 
 
 ## RESULT:
